@@ -42,6 +42,8 @@ Enter amount for withdraw: 250.00
 Withdraw error: Not enough balance
 ```
 
+<br> 
+
 <div align="center">
-    <img width="70%" src="">
+    <img width="70%" src="https://github.com/user-attachments/assets/dfd11121-4944-45e6-a4fb-6505c239c4bc">
 </div>
